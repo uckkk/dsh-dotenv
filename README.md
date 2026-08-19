@@ -8,3 +8,9 @@
 dsh plugin add dsh-dotenv
 ```
 安装后在 profile 的 `package.json` 的 `dsh.profile.bundles` 中加入 `"dsh-dotenv"`。
+
+## 安装
+
+```bash
+dsh plugin add github:uckkk/dsh-dotenv
+```
